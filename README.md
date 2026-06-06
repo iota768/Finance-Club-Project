@@ -5,8 +5,9 @@ This .ipynb file implements, calibrates, and extends the Cox-Ingersoll-Ross (CIR
 
 The workflow follows five steps:
 
-Data engineering and preprocessing
-Base CIR model implementation and calibration
-Yield curve prediction
-Model extension via CIR++
-Critical analysis and limitations
+1. Data engineering and preprocessing
+2. Base CIR model implementation and calibration
+3. Yield curve prediction
+4. Model extension via CIR++
+5. Critical analysis and limitations
+
