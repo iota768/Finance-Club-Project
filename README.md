@@ -1,4 +1,4 @@
-# Finance-Club-Project
+# Finance-Club-Project on STOCHASTIC INTEREST RATE MODELLING
 Project on Stochastic Interest Rate Modelling
 
 This .ipynb file implements, calibrates, and extends the Cox-Ingersoll-Ross (CIR) short-rate model on historical bond yield data. The goal is to reconstruct the entire yield curve from observable inputs and critically assess where the model succeeds and where it fails.
